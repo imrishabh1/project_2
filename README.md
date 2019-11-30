@@ -1,8 +1,8 @@
 # project_2
 
 References:
-lstm nmt model - https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html
-German to English Translation Dataset - https://machinelearningmastery.com/develop-neural-machine-translation-system-keras/
+lstm nmt model - https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html \n
+German to English Translation Dataset - https://machinelearningmastery.com/develop-neural-machine-translation-system-keras/ \n
 Sequence to Sequence Learning with Neural Networks - https://arxiv.org/pdf/1409.3215.pdf
 nmt - https://github.com/hlamba28/Word-Level-Eng-Mar-NMT/blob/master/WordLevelEngMarNMT.ipynb
 nmt with attention - https://www.tensorflow.org/tutorials/text/nmt_with_attention
