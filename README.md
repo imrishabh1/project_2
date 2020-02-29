@@ -1,4 +1,4 @@
-# project_2
+# Neural Machine Translation With LSTM,RNN
 
 References: <br/>
 lstm nmt model - https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html <br/>
